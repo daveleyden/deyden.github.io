@@ -1,8 +1,6 @@
-## Welcome to David's CV
+## Welcome
 
-A quick hello to tell you a bit about me with more detail available on [my linkedin profile](https://www.linkedin.com/in/dleyden/). Looking to make the transition from construction project management into the world of tech.
 
-I have a career-long record of delivering products and services that surpass customer expectations by continually balancing creative, user-centric solutions (from stadium design to data analytics tools) with commercial and strategic imperatives across a range of industries. As a big picture focused, optimistic and driven individual, I enjoy roles within cultures where change is embraced for the potential it can bring and great people are encouraged to work together to solve complex and interesting customer problems
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
